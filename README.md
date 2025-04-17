@@ -42,3 +42,10 @@ Me encontre nas redes sociais:
 ---
 
 ### 🎯 Quer colaborar em algum projeto ou trocar ideias? Me chama nas redes sociais! 🚀  
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake.svg">
+</picture>
